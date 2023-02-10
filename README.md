@@ -1,6 +1,4 @@
-### Pinyu Chen  
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/[ICON SLUG].svg" />
+### Pinyu Chen  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[#181717].svg" />
 
 
 
