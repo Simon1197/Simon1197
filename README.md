@@ -2,8 +2,8 @@
 
 #### Data Scientist
 
-I am a <strong>master</strong> student at American University in <strong>Data Science</strong> specialied Computer science (Washington, D.C.).  
-Interested in Data science, Machining learning, and data analysis.  
+I graduated from American University with a </strong>master</strong> in </strong>Data Science</strong> specializing in Computer Science (Washington, D.C.).
+Interested in Data Science, Machining learning, and data analysis.
 With a high passion for challenging and discovering different approaches to solving problems.
 <hr>
 Language and Software  </p>
