@@ -4,7 +4,7 @@
 
 I graduated from American University with a <strong>master</strong> in <strong>Data Science</strong> specializing in Computer Science (Washington, D.C.).
 
-Interested in Data Science, Machining learning, Data Engineer, and Data Analysis.
+Interested in Data Science, Machining learning, Data engineering, and Data Analysis.
 
 With a high passion for challenging and discovering different approaches to solving problems.
 <hr>
