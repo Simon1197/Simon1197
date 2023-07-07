@@ -19,6 +19,7 @@ Language and Software  </p>
 Relevant Course  </p>
 <li>Statistical Method in R</li>
 <li>Regression</li>
+<li>Data Mining</li>
 <li>Machine Learning</li>
 <li>Advance Machine leaning</li>
 <li>Introduction of Databases</li>
