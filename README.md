@@ -7,6 +7,8 @@ I graduated from American University with a <strong>master</strong> in <strong>D
 Interested in Data Science, Machining learning, Data engineering, and Data Analysis.
 
 With a high passion for challenging and discovering different approaches to solving problems.
+
+<strong>AWS Certified Solutions Architect – Associate (SAA-003)</strong>
 <hr>
 Language and Software  </p>
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="max-width: 100%;">
